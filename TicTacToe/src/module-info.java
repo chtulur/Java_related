@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author molna
- *
- */
-module TicTacToe {
-}
